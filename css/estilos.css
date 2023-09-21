@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana;
+    background-color: aqua;
+}
+
+main {
+    background-color: lemonchiffon;
+    padding: 1%;
+    width: 80%;
+    margin: auto;
+}
